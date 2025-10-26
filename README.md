@@ -51,4 +51,5 @@ https://mindflowx.netlify.app/
 ✨ Author
 
 **Developed by Timothy Abejoye (Rihofficial) (https://github.com/Rihofficial)**
+
 Mern-Stack Developer | Passionate about building clean, modern web experiences.
